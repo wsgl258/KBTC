@@ -1,5 +1,3 @@
-![Background Image](./assets/logo.png)
-
 
 
 ## KBTC's vision and plan
